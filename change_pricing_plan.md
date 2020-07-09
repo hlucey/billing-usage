@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017, 2020
-lastupdated: "2020-06-03"
+lastupdated: "2020-07-09"
 
 keywords: change service, upgrade service, service plan, pricing plan
 
